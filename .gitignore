@@ -1,0 +1,17 @@
+:*.cywrk.*
+ddad*.cyprj.*
+Debug/
+Rddsdaselease/
+Export/
+CortexM0p/
+CortexM4/
+codegentmp/
+Generated_Source/
+*._datasheet.pdf
+*._timing.html
+*.cycdx
+*.cyfit
+*.rpt
+*.svd
+*.log
+*.zip
